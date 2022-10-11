@@ -31,6 +31,5 @@ public abstract class Character {
         return this.getClass().getName() +
                 "{hp=" + this.hp + ", power=" + this.power + "}";
     }
-
 }
 
